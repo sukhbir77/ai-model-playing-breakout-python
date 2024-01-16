@@ -16,4 +16,4 @@ This repository showcases the development of an AI model trained to play the cla
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/AI_Playing_Breakout.git
+   git clone https://github.com/sukhbir77/ai-model-playing-breakout-python.git
